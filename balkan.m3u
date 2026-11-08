@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Alsat.mk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png" group-title="North Macedonia",Alsat [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" group-title="North Macedonia",Arena Sport Premium M1
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" group-title="North Macedonia",Arena Sport Premium M2
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" group-title="North Macedonia",Arena Sport Premium M3
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
+#EXTINF:-1 tvg-id="AXNAdria.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="North Macedonia",AXN Adria (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://87.238.211.217:2209/stream/104/index.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.hu@SD" tvg-logo="https://i.imgur.com/uVFenKm.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="North Macedonia",AXN Spin (Hungary)
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-id="CoolTV.mk@SD" tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="North Macedonia",Cool TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="North Macedonia",Folk Klub TV (720p)
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" tvg-logo="https://i.imgur.com/4b9aZ9P.png" group-title="North Macedonia",Folk TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="JazzTV.mk@SD" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="North Macedonia",Jazz TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-id="Kanal5.mk@SD" tvg-logo="https://i.imgur.com/Qw7N3S2.png" group-title="North Macedonia",Kanal 5 (360p)
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk@SD" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="North Macedonia",Love TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="MNetHD.mk@SD" tvg-logo="https://i.imgur.com/HDYqWuR.png" group-title="North Macedonia",M-Net HD (720p)
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="MNetInfo.mk@SD" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" group-title="North Macedonia",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk@SD" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="North Macedonia",M-Net Kids (720p)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="North Macedonia",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk@SD" tvg-logo="https://i.imgur.com/YvOrUnN.png" group-title="North Macedonia",MRT 2 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" group-title="North Macedonia",MRT Sobraniski kanal [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-id="MTM.mk@SD" tvg-logo="https://i.ibb.co/HCRZVVz/images-4.png" group-title="North Macedonia",MTM [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="NasaTV.mk@SD" tvg-logo="https://i.imgur.com/9rB4VZy.png" group-title="North Macedonia",Nasa TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk@SD" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="North Macedonia",Rock TV (North Macedonia) (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="Sitel.mk@SD" tvg-logo="https://i.imgur.com/pdobwKt.png" group-title="North Macedonia",Sitel (480p)
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="North Macedonia",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="StarPlusTelevizija.mk@SD" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="North Macedonia",Star Plus Televizija (1080p) [Not 24/7]
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-id="SutelTV.mk@SD" tvg-logo="https://i.imgur.com/hk3lhuF.png" group-title="North Macedonia",Sutel TV [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="North Macedonia",TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="TV21.mk@SD" tvg-logo="https://i.imgur.com/IC1f4h3.png" group-title="North Macedonia",TV21 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-id="TVERA.mk@SD" tvg-logo="https://i.imgur.com/ds0uf7A.png" group-title="North Macedonia",TV ERA [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 tvg-id="TVNOVA12.mk@SD" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" group-title="North Macedonia",TV NOVA 12 (576p) [Not 24/7]
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="TVShenja.mk@SD" tvg-logo="https://i.imgur.com/JsdUpB8.png" group-title="North Macedonia",TV Shenja [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:-1 tvg-id="TVZdravkin.mk@SD" tvg-logo="https://i.imgur.com/w4rRUNQ.png" group-title="North Macedonia",TV Zdravkin (400p)
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Serbia",Arena Sport 1 Premium (Serbia) (360p)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Serbia",Belle Amie (540p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs@SD" tvg-logo="https://i.imgur.com/LdeA1Cn.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Serbia",DM Sat (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 tvg-id="EDUTV.rs@SD" tvg-logo="https://i.imgur.com/NE48DJb.png" group-title="Serbia",EDU TV (576p) [Not 24/7]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Serbia" tvg-logo="https://i.imgur.com/olQJgm7.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Serbia",Eurosport 1 Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://87.238.211.217:2209/stream/99/index.m3u8
+#EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-logo="https://i.imgur.com/btvyrzr.png" group-title="Serbia",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",Kitchen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" tvg-logo="https://i.imgur.com/dua57HD.png" group-title="Serbia",Narodna TV (720p)
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 tvg-id="Nova.rs@SD" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="Serbia",Nova (Serbia) (1080p)
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="PannonTV.rs@SD" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="Serbia",Pannon TV (648p)
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="Pink.rs@SD" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Serbia",Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="Prva.rs@SD" tvg-logo="https://i.imgur.com/NA31Gtm.png" group-title="Serbia",Prva (1080p)
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="PrvaFiles.rs@SD" tvg-logo="https://i.imgur.com/8lZgAXu.png" group-title="Serbia",Prva Files
+https://de1.dstv.cx/PrvaFiles/index.m3u8
+#EXTINF:-1 tvg-id="PrvaKick.rs@SD" tvg-logo="https://i.imgur.com/zsXD3cd.png" group-title="Serbia",Prva Kick (1080p)
+https://de1.dstv.cx/PrvaKick/index.m3u8
+#EXTINF:-1 tvg-id="PrvaLife.rs@SD" tvg-logo="https://i.imgur.com/fHntwzn.png" group-title="Serbia",Prva Life (1080p)
+https://de1.dstv.cx/PrvaLife/index.m3u8
+#EXTINF:-1 tvg-id="PrvaMax.rs@SD" tvg-logo="https://i.imgur.com/BzxmOaQ.png" group-title="Serbia",Prva Max (1080p)
+https://de1.dstv.cx/PrvaMax/index.m3u8
+#EXTINF:-1 tvg-id="PrvaPlus.rs@SD" tvg-logo="https://i.imgur.com/IlenHxZ.png" group-title="Serbia",Prva Plus (1080p)
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 tvg-id="PrvaWorld.rs@SD" tvg-logo="https://i.imgur.com/tuh1vzj.png" group-title="Serbia",Prva World (1080p)
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" tvg-logo="https://i.imgur.com/gP2OT4S.png" group-title="Serbia",Radio Hit FM TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" tvg-logo="https://i.imgur.com/g2HpLX1.png" group-title="Serbia",Radio Karolina TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Serbia",Radio Lola TV (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="RTS1.rs@SD" tvg-logo="https://i.imgur.com/S1pKHSR.png" group-title="Serbia",RTS 1
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Serbia",RTS 2 (1080p)
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs@SD" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="Serbia",RTS 3 (720p)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 tvg-id="RTSDrama.rs@SD" tvg-logo="https://i.imgur.com/bsTUhYK.png" group-title="Serbia",RTS Drama (576p)
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="RTSKolo.rs@SD" tvg-logo="https://i.imgur.com/gXlEDDW.png" group-title="Serbia",RTS Kolo (576p)
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 tvg-id="RTSMuzika.rs@SD" tvg-logo="https://i.imgur.com/n8p11NI.png" group-title="Serbia",RTS Muzika (576p)
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-id="RTSPoletarac.rs@SD" tvg-logo="https://i.imgur.com/8Nnw8NF.png" group-title="Serbia",RTS Poletarac (576p)
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@SD" tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Serbia",RTS Svet (1080p)
+https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSTrezor.rs@SD" tvg-logo="https://i.imgur.com/BnSHfxF.png" group-title="Serbia",RTS Trezor (576p)
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1 tvg-id="RTSZivot.rs@SD" tvg-logo="https://i.imgur.com/NpFG9uy.png" group-title="Serbia",RTS Zivot (576p)
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs@SD" tvg-logo="https://i.imgur.com/CG44YT3.png" group-title="Serbia",RTV 1 (Serbia) (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs@SD" tvg-logo="https://i.imgur.com/skpr66t.png" group-title="Serbia",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-logo="https://i.imgur.com/TBAtPH6.png" group-title="Serbia",RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-logo="https://i.imgur.com/NpyRVyC.png" group-title="Serbia",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="Serbia",Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Serbia",Sci Fi (Serbia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" tvg-logo="https://i.imgur.com/9SD40uH.png" group-title="Serbia",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="Serbia",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-id="TopTV.rs@SD" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Serbia",Top TV (Serbia) (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="Serbia",TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Serbia",TV Duga+ (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-logo="https://i.imgur.com/XzAYOFK.png" group-title="Serbia",TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVKanalM.rs@SD" tvg-logo="https://i.imgur.com/hqNVRUU.png" group-title="Serbia",TV Kanal M (576p)
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 tvg-id="TVMarsh.rs@SD" tvg-logo="https://i.imgur.com/Dt1mPyX.png" group-title="Serbia",TV Marsh (720p) [Not 24/7]
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPanon.rs@SD" tvg-logo="https://i.imgur.com/9ZKA4Gx.png" group-title="Serbia",TV Panon
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-logo="https://i.imgur.com/8ugnFa3.png" group-title="Serbia",TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs@SD" tvg-logo="https://i.imgur.com/o5y1ok6.png" group-title="Serbia",TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ZICOTV.rs@SD" tvg-logo="https://i.imgur.com/8wbTnNW.png" group-title="Serbia",ZICO TV (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Croatia",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Croatia",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="Croatia",Diadora TV (720p)
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-logo="https://i.imgur.com/lDSctzX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Croatia",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@HD" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="Croatia",HRT 1 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-id="HRT2.hr@SD" tvg-logo="https://i.imgur.com/yyePcl1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Croatia",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr@HD" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="Croatia",HRT 2 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Croatia",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr@HD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Croatia",HRT 3 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="Croatia",HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" tvg-logo="https://i.imgur.com/sKj3dgc.png" group-title="Croatia",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Croatia",Klasik (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr@SD" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="Croatia",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Croatia",National Geographic (Croatia) (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Croatia",Nick Jr. (Croatia) (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="Croatia",Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="OTV.hr@SD" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="Croatia",OTV (Croatia) (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Croatia",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="Croatia",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="ShiftTV.hr@SD" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Croatia",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.hr@SD" tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="Croatia",STV (Croatia) (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr@SD" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="Croatia",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr@SD" tvg-logo="https://i.imgur.com/UWMHnOG.png" group-title="Croatia",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr@SD" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Croatia",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr@SD" tvg-logo="https://i.imgur.com/cgCeX12.png" group-title="Croatia",TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="Bosnia and Herzegovina",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1" group-title="Bosnia and Herzegovina",BHT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="Bosnia and Herzegovina",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" tvg-logo="https://i.imgur.com/GGhvR0l.png" group-title="Bosnia and Herzegovina",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" tvg-logo="https://i.imgur.com/xUOspBx.png" group-title="Bosnia and Herzegovina",Maria+Vision Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Bosnia and Herzegovina",Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-logo="https://i.imgur.com/BXFPz8c.png" group-title="Bosnia and Herzegovina",Newsmax Balkans (1080p)
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="Bosnia and Herzegovina",RTRS plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="Bosnia and Herzegovina",RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="Bosnia and Herzegovina",RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="Bosnia and Herzegovina",RTV HB (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="Bosnia and Herzegovina",RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="Bosnia and Herzegovina",Super TV (Bosnia and Herzegovina) (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="Bosnia and Herzegovina",Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="Bosnia and Herzegovina",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Bosnia and Herzegovina",TNT Kids TV (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="Bosnia and Herzegovina",TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Bosnia and Herzegovina",TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me@SD" tvg-logo="https://i.imgur.com/vTZjEC5.png" group-title="Montenegro",Radio televizija Rozaje (614p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-logo="https://i.imgur.com/51fGwzn.png" group-title="Montenegro",TV Niksic (720p)
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVTeuta.me@SD" tvg-logo="https://i.imgur.com/sWVqBuW.png" group-title="Montenegro",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVCG1.me@SD" tvg-logo="https://i.imgur.com/QORHrXu.png" group-title="Montenegro",TVCG 1 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2.me@SD" tvg-logo="https://i.imgur.com/WECmUKH.png" group-title="Montenegro",TVCG 2 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me@SD" tvg-logo="https://i.imgur.com/0ZT3Bc2.png" group-title="Montenegro",TVCG 3 (1080p) [Geo-blocked]
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-logo="https://i.imgur.com/pf8VEwf.png" group-title="Montenegro",TVCG MNE (1080p)
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al@SD" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="Albania",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Albania",AlbKanale Music TV HD (1080p)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al@SD" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Albania",Alpo TV
+https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al@SD" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="Albania",CNA (Albania) (1080p)
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="Cufo.al@SD" tvg-logo="https://i.imgur.com/GbBHtwD.png" group-title="Albania",Cufo
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-id="FieriTv.al@HD" tvg-logo="https://raw.githubusercontent.com/biptv/fieri-tv-logo/main/120.png" group-title="Albania",Fieri Tv (720p)
+http://valashop.online:8090/fieritv.m3u8
+#EXTINF:-1 tvg-id="News24.al@SD" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="Albania",News 24 (Albania) (392p)
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al@SD" tvg-logo="https://i.imgur.com/gtZLzxq.png" group-title="Albania",ntv (720p)
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png" group-title="Albania",Ora News (720p)
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/960px-Panorama_logo.svg.png" group-title="Albania",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al@SD" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Albania",Report TV (720p)
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTSH1.al@SD" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Albania",RTSH 1 (1080p)
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al@SD" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="Albania",RTSH 2 (1080p)
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al@SD" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="Albania",RTSH 24 (1080p)
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al@SD" tvg-logo="https://i.imgur.com/88kRsW3.png" group-title="Albania",RTSH Shqip (1080p)
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al@SD" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Albania",RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri.al@SD" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="Albania",Syri (720p)
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al@SD" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="Albania",Tropoja Televizion (1080p)
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al@SD" tvg-logo="https://i.imgur.com/tL1n9mh.png" group-title="Albania",TV 7 Albania
+https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJohaniter.al@SD" tvg-logo="https://i.imgur.com/Zo9lJgP.png" group-title="Albania",TV Johaniter (720p)
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png" group-title="Albania",Vizion Plus (1080p)
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al@SD" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Albania",Zjarr TV (360p)
+https://zjarr.future.al/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="Kosovo",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-logo="https://i.imgur.com/Ut9VcT3.png" group-title="Kosovo",RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-logo="https://i.imgur.com/AqQltGh.png" group-title="Kosovo",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.imgur.com/b7FvSJj.png" group-title="Kosovo",T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kosovo",TV Arberia 3 Femije (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kosovo",TV Arberia 4 Muzike (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Kosovo",TV Arberia Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Kosovo",TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="Kosovo",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Kosovo",TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de@SD" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="Slovenia",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Premium.si@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Slovenia",Arena Sport 1 Premium (Slovenia)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Slovenia",Cinemax 2 Central Europe
+http://193.33.39.108:9009/play/a024
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Slovenia",Cinemax Central Europe
+http://193.33.39.108:9023/play/a01b
+#EXTINF:-1 tvg-id="ExodusTV.si@SD" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Slovenia",Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" tvg-logo="https://i.imgur.com/RK1IASU.png" group-title="Slovenia",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="H2HD.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Slovenia",History (Slovenia) (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="KanalA.si@SD" tvg-logo="https://i.imgur.com/JHNpcqF.png" group-title="Slovenia",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="OneAdria.de@SD" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Slovenia",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Slovenia",Star Channel (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+#EXTINF:-1 tvg-id="StarCrime.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Slovenia",Star Crime (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1 tvg-id="StarLife.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Slovenia",Star Life (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02n
+#EXTINF:-1 tvg-id="StarMovies.si@SD" tvg-logo="https://i.imgur.com/JcoAgDF.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Slovenia",Star Movies (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si@SD" tvg-logo="https://i.imgur.com/PZwdXlN.png" group-title="Slovenia",Televizija Urslja (1080p) [Not 24/7]
+http://ott.sgn.net/hls/tvurslja.m3u8
+#EXTINF:-1 tvg-id="TrzicTV.si@SD" tvg-logo="https://i.imgur.com/VZiaoqz.png" group-title="Slovenia",Trzic TV (1080p) [Not 24/7]
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLO1.si@SD" tvg-logo="https://i.imgur.com/E3YmlxF.png" group-title="Slovenia",TV SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVSLO2.si@SD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="Slovenia",TV SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" group-title="Slovenia",TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-logo="https://i.imgur.com/yPb2FKg.png" group-title="Slovenia",TV SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-logo="https://i.imgur.com/49VrbSW.png" group-title="Slovenia",TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.si@HD" tvg-logo="https://i.imgur.com/jboGcoY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",Viasat Explore (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.si@HD" tvg-logo="https://i.imgur.com/qCkCGqa.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",Viasat History (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.si@SD" tvg-logo="https://i.imgur.com/gxlZZ91.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Slovenia",Viasat Nature (Slovenia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+#EXTINF:-1 tvg-id="78TV.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",7/8 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg@SD" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Bulgaria",100% Auto Moto TV (406p) [Not 24/7]
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Bulgaria",Agro TV (Bulgaria) (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",AMC Europe Bulgary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a05k
+#EXTINF:-1 tvg-id="AnimalPlanet.bg@SD" tvg-logo="https://i.postimg.cc/pd0kmDgK/Animal-Planet-Logo-PNG12.png" group-title="Bulgaria",Animal Planet (Bulgaria)
+http://213.91.179.28:8000/play/a05r
+#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",AXN Black (United States)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.17:5000
+#EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Bulgaria",AXN CEE Bulgary
+http://85.11.144.9:4222/AXN
+#EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-logo="https://i.imgur.com/47IKxmt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",AXN White (United States) Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.18:5000
+#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg@SD" tvg-logo="https://i.imgur.com/cHwOVqk.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Bloomberg TV Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="Bulgaria",BNT 1 (1080p)
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" group-title="Bulgaria",BNT 2 (1080p)
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" group-title="Bulgaria",BNT 3 (1080p)
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="Bulgaria",BNT 4 (1080p)
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-logo="https://i.imgur.com/swFzesA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",BOX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 tvg-id="bTV.bg@SD" tvg-logo="https://i.imgur.com/l47z7gw.png" group-title="Bulgaria",bTV (576p)
+http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:-1 tvg-id="bTVAction.bg@SD" tvg-logo="https://i.imgur.com/hGUXHuT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 tvg-id="bTVCinema.bg@SD" tvg-logo="https://i.imgur.com/uV81rS4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-id="bTVComedy.bg@SD" tvg-logo="https://i.imgur.com/1c6A5dO.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 tvg-id="bTVLady.bg@SD" tvg-logo="https://i.imgur.com/rXBPJ1e.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Lady
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg@SD" tvg-logo="https://i.imgur.com/mvShl7F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Bulgaria On Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Bulgaria",Cartoon Network CEE Bulgary
+http://213.91.179.28:8000/play/a08g
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Bulgary" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Bulgaria",Cartoonito CEE Bulgary
+http://213.91.179.28:8000/play/a0c7
+#EXTINF:-1 tvg-id="cinebox.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",cine.box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" tvg-logo="https://i.imgur.com/t9vVTLH.png" group-title="Bulgaria",CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg@SD" tvg-logo="https://i.imgur.com/bTf7A9J.png" group-title="Bulgaria",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
+#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Bulgaria",City TV (Bulgaria) (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Bulgaria",Code Fashion TV (1080p)
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Bulgaria",Code Health TV (1080p)
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-id="Diema.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-logo="https://i.imgur.com/SgNVY4d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Bulgaria",Discovery Channel (Bulgaria)
+http://213.91.179.28:8000/play/a044
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Bulgaria",Disney Channel (Bulgaria) (576i)
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (Bulgaria) (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" group-title="Bulgaria",EKids (576p)
+http://78.108.244.134:8899/ekids
+#EXTINF:-1 tvg-id="Eurocom.bg@SD" tvg-logo="" group-title="Bulgaria",Eurocom (360p)
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" tvg-logo="https://i.imgur.com/RrQVoOg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Euronews Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Bulgaria",Eurosport 1 Bulgaria
+http://213.91.179.28:8000/play/a05y
+#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Bulgaria",Eurosport 2 Bulgaria
+http://213.91.179.28:8000/play/a04b
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",FILMBOX+ Emotion Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04r
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",FILMBOX+ Love & Crime Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a066
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",FILMBOX+ One Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06i
+#EXTINF:-1 tvg-id="H2.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-id="History.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",History (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-id="HitMixMusic.bg@SD" tvg-logo="https://i.imgur.com/Gbaxq6P.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Hit Mix Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg@SD" tvg-logo="https://i.imgur.com/bxzeEML.png" group-title="Bulgaria",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ID.bg@SD" tvg-logo="" group-title="Bulgaria",ID
+http://213.91.179.28:8000/play/a0cf
+#EXTINF:-1 tvg-id="KinoNova.bg@SD" tvg-logo="https://i.imgur.com/hMqEY0J.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Kino Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Bulgaria",Light Channel (Bulgaria) (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Bulgaria",Magic TV (Bulgaria) (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x" group-title="Bulgaria",Max Sport 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Max Sport 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Max Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Movie Star (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",National Geographic (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",National Geographic Wild (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Bulgaria",Nickelodeon (Bulgaria)
+http://87.120.179.187:8000/play/a00x
+#EXTINF:-1 tvg-id="Nostalgia.bg@SD" tvg-logo="https://i.imgur.com/JU1dFfK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nostalgia (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 tvg-id="Nova.bg@SD" tvg-logo="https://i.imgur.com/WCsPSLX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nova (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 tvg-id="NovaNews.bg@SD" tvg-logo="https://i.imgur.com/s6IryS3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nova News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg@SD" tvg-logo="" group-title="Bulgaria",Plovdiv Orthodox TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RING.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-logo="https://rmtv.bg/img/logo.png" group-title="Bulgaria",RMTV (288p)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Star Channel (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Star Crime (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Star Life (Bulgaria)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="SuperToons.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png" group-title="Bulgaria",Super Toons (1080p)
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="Bulgaria",The Voice (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Bulgaria",This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="Bulgaria",Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="Bulgaria",Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Bulgaria",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Bulgaria",TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-id="TVRodina.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",TV Rodina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="Bulgaria",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="TVZagora.bg@SD" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="Bulgaria",TV Zagora (576p)
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Viasat Explore (Bulgaria) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Viasat History (Bulgaria) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Viasat Kino Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 tvg-id="ViasatNature.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Viasat Nature (Bulgaria) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-logo="https://i.imgur.com/M7QKnH3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Vivacom Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a053
